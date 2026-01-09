@@ -44,8 +44,8 @@ The system provides **personalized movie recommendations** using similarity-base
 
  
  GROUP NAME:-
- 1) Ravi Raj (group leader)
- 2) Sachin kumar singh
+ 1) Ravi Raj 
+ 2) Sachin kumar singh (Leader)
  3) Nainshi kumari
  4) Aishwarya shree
  
